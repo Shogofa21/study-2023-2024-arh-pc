@@ -74,7 +74,7 @@ header-includes:
 ![Создала каталог для работы с программами на языке ассемблера NASM.](/labs/lab04/report/image/1.png){#fig:fig1 width=70% }
 
 2-Перейдите в созданный каталог:
-![Перешла в созданный каталог](/labs/lab04/report/image/2.jpg){#fig:fig1 width=70% }
+![Перешла в созданный каталог](/labs/lab04/report/image/2.png){#fig:fig1 width=70% }
 
 3- Создайте текстовый файл с именем hello.asm
 ![Создала текстовый файл с именем hello.asm](/labs/lab04/report/image/3.png){#fig:fig1 width=70% }
