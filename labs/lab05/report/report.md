@@ -76,7 +76,7 @@ header-includes:
 2.1 Задание 1:
 Откроем Midnight Commander (рис. [2.1])
 
-![Открываем Midnight Commander](/image/1.png){#fig:fig1 width=70% }
+![Открываем Midnight Commander](/labs/lab05/report/image/1.png){#fig:fig1 width=70% }
 
 2.2 Задание 2:
 
